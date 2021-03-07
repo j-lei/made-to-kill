@@ -2,6 +2,6 @@ module.exports = {
   siteMetadata: {
     title: "Made to KILL",
   },
-  plugins: ["gatsby-plugin-sass"],
+  plugins: [`gatsby-plugin-postcss`],
   pathPrefix: "/made-to-kill",
 };
