@@ -16,6 +16,8 @@
     "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
+    "@fontsource/arapey": "^4.2.2",
+    "fontsource-montserrat": "^4.0.0",
     "gatsby": "^2.32.8",
     "gatsby-plugin-postcss": "^4.0.0",
     "postcss": "^8.2.7",
